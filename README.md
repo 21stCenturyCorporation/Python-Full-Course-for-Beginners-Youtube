@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/22996343/README.md)
-
 # Code and Notes
 
 The repository contains all the notes and codes for the lectures that are available on my free course Python Full Course for Beginners.
